@@ -1,4 +1,4 @@
-This is a basic Asteroids game.
+This is a basic Asteroids game created with [Pygame](https://www.pygame.org/docs/)**.
 
 # Controls
 A = Left  
